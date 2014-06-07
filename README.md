@@ -1,2 +1,2 @@
-This is for the peer evaluation
+This is for peer evaluation
 =========================
